@@ -18,8 +18,14 @@ public class Main {
 
         System.out.println("There are " + list.size()+ " employees.");
 
+        //for each loop
         for (String element:list){
             System.out.println(element);
         }
+        //for loop
+        for (int i=0; 1< list.size(); i++){
+            System.out.println(list.get(i));
+        }
+        //iteration in next number
     }
 }

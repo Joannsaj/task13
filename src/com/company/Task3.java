@@ -21,7 +21,7 @@ public class Task3 {
             System.out.println(element);
         }
 
-
+        System.out.println(list.contains("Joan Nansamba"));
 
     }
 }
